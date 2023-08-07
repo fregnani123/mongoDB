@@ -1,0 +1,1 @@
+mongodb+srv://fregnani:Freg_1308@cluster0.eah14tj.mongodb.net/meuBancoDeDados?retryWrites=true&w=majority
