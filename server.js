@@ -6,8 +6,6 @@ const mongoose = require('mongoose');
 const routes = require('./routes');
 const path = require('path');
 
-
-
 mongoose.connect(process.env.connectionsMongoDB
 ).then(()=>{
     console.log('Conectado á base de dados.');
